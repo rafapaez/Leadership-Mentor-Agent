@@ -1,6 +1,6 @@
 # 🧭 Leadership Mentor Agent
 
-A simple yet functional AI agent that acts as a leadership mentor — built in under 200 lines of Python. This project shows how to combine LLMs with structured tools, memory, and goal-driven logic to create a real agentic experience.
+A simple yet functional AI agent that acts as a leadership mentor, built in under 200 lines of Python. This project shows how to combine LLMs with structured tools, memory, and goal-driven logic to create a real agentic experience.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rafapaez/Leadership-Mentor-Agent/blob/main/Leadership_Mentor_Agent.ipynb)
 
@@ -42,7 +42,7 @@ Tools are defined as Python functions and selected by the LLM based on the conve
 
 ## 📖 Read the Full Breakdown
 
-Curious how it works? Read the full write-up on [The Engineering Leader newsletter](https://newsletter.rafapaez.com/).
+Read the full write-up on [The Engineering Leader]([https://newsletter.rafapaez.com/](https://open.substack.com/pub/rafapaez/p/build-your-first-ai-agent)).
 
 ## ✨ Future Improvements
 
