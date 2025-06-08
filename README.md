@@ -42,7 +42,7 @@ Tools are defined as Python functions and selected by the LLM based on the conve
 
 ## 📖 Read the Full Breakdown
 
-Read the full write-up on [The Engineering Leader]([https://newsletter.rafapaez.com/](https://open.substack.com/pub/rafapaez/p/build-your-first-ai-agent)).
+Read the full write-up on [The Engineering Leader](https://newsletter.rafapaez.com/p/build-your-first-ai-agent)
 
 ## ✨ Future Improvements
 
